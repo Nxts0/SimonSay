@@ -158,7 +158,7 @@ const playerTimer = () => {
       })
       showPopupEnd.value = true
     }
-  }, 10)
+  }, 1000)
 }
 
 const calculateScore = () => {
